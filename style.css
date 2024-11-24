@@ -82,16 +82,16 @@
 }
 .flexible-btn{
    text-align: center;
-
+    
 }
 .flexible-btn button{
     padding: 5px 15px;
     border-radius: 25px;
      width: 129px; 
     height: 50px;
-    background-image: linear-gradient(to left, #671296, #9E1F83);
-    -webkit-background-clip: text;
-    color: transparent; 
+    /* background-image: linear-gradient(to left, #671296, #9E1F83); */
+    /* -webkit-background-clip: text; */
+    /* color: transparent;  */
 }
 /* down-page section */
 .page-down{
